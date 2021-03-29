@@ -1,7 +1,7 @@
 # MobaGame
 
 
-Example of a MOBA (10 player battle arena) game made in Unreal Engine 4
+Example of a MOBA (10 player battle arena) game made in Unreal Engine 4. Project was let go after some months work as the group moved on to other projects.
 
 Project is not meant to be compiled or ran, rather viewed as a reference for how various systems are implemented.
 
